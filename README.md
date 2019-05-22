@@ -1,2 +1,2 @@
 # IMAGE-FILTERS
-Image filters in python
+Applying filters to images using Fast Fourier Transform with python
