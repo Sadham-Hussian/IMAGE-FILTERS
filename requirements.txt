@@ -1,5 +1,4 @@
 matplotlib
-skimage
+scikit-image
 numpy
-tkinter
-PIL
+Pillow
