@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import  skimage
+from skimage import img_as_float, io
 
 '''
     Changes the given Coour Image into GreyScale
@@ -37,7 +37,7 @@ def read_image_from_path(path):
     if path.split('.')[0] == 'png':
         original_image = plt.imread(path).astype(float)
     else:
-        original_image = skimage.img_as_float(skimage.io.imread(path))
+        original_image = img_as_float(io.imread(path))
     return original_image
 
 '''
