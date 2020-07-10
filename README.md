@@ -1,8 +1,8 @@
-# IMAGIPI
+# IMAGIFI
 
 ## About the Project 
 
-IMAGIPI is a application that applies Instagram filters like Gaussian, Gotham, Riverdale and many more. UI is added to IMAGIFI using Tkinter for better visualisation.
+IMAGIFI is an application that applies Instagram filters like Gaussian, Gotham, Riverdale and many more. UI is added to IMAGIFI using Tkinter for better visualisation.
 
 ## Getting Started
 
